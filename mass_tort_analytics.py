@@ -1,6 +1,3 @@
-# datafun-01-attr
-Reusable utilities for my Python projects
-
 ''' This module provides a reusable byline for Mass Tort Analytics. '''
 
 import math
